@@ -15,6 +15,8 @@ Prepare the lists from each linear equations and assign in np.array()
 End the program
 ## Program:
 ```
+Developed by: M.Jayachandran
+RegisterNumber: 22008847
 import numpy as np
 A=np.array([[3,2,5],[1,1,2],[3,3,6]])
 rank=np.linalg.matrix_rank(A)
